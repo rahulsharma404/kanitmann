@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanit Mann</h1>
 <h3 align="center">An enthusiast coding to make the world better</h3>
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanitmann" alt="kanitmann" /> </p>
 
 - 🔭 I’m currently working on [Automatic Pick and Place Robot](https://github.com/kanitmann/pick_n_place_arduino)
@@ -17,6 +16,8 @@
 - 📫 How to reach me **mannkanit@gmail.com**
 
 - ⚡ Fun fact **Tea is love <3**
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -31,7 +32,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=kanitmann&show_icons=true&hide_border=true)
-<p align = "right">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanitmann)</p>
 
 ⭐️ From [kanitmann](https://github.com/kanitmann)
