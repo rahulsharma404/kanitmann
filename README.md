@@ -31,8 +31,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=kanitmann&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanitmann)
+<p align = "right">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanitmann)</p>
 
 ⭐️ From [kanitmann](https://github.com/kanitmann)
 
