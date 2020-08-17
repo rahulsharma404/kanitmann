@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Image Encoders**
 
-- 🤔 I’m looking for help with **Data Analysis**
+- 🤔 I’m looking for help with **100 days of code ideas**
 
 - 💬 Ask me about **C, C++, Python, OpenCV, Photoshop**
 
