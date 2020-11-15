@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanitmann" alt="kanitmann" /> </p>
 
-- 🔭 I’m currently working on [Automatic Pick and Place Robot](https://github.com/kanitmann/pick_n_place_arduino)
+- 🔭 I’m currently working on [Portfolio Website](https://kanitmann.github.io/Google_Page_Profile/)
 
-- 🌱 I’m currently learning **Django, React, Java, Oracle DB**
+- 🌱 I’m currently learning **JS, Java**
 
-- 👯 I’m looking to collaborate on **Image Encoders**
+- 👯 I’m looking to collaborate on **Anything that is cool and creative**
 
 - 🤔 I’m looking for help with **100 days of code ideas**
 
