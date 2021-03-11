@@ -35,9 +35,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=kanitmann&show_icons=true&hide_border=true)
+<p align="center">![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=kanitmann&show_icons=true&hide_border=true)
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanitmann&" alt="kanitmann" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanitmann&" alt="kanitmann" />
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kanitmann)  </p>
 
