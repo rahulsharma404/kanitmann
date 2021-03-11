@@ -33,6 +33,8 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanitmann)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=kanitmann&show_icons=true&hide_border=true)
 
 <center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanitmann&" alt="kanitmann" /></center>
