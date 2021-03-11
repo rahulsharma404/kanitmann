@@ -31,9 +31,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" width="60" height="30"/></p>
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanitmann)
+
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=kanitmann&show_icons=true&hide_border=true)
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width = "400" height = "270">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanitmann) <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width = "400" height = "270">
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanitmann&" alt="kanitmann" /> </p>
 
