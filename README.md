@@ -32,8 +32,7 @@
 
   
 
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=kanitmann&show_icons=true&hide_border=true)<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanitmann&" alt="kanitmann" /> </p>
+![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=kanitmann&show_icons=true&hide_border=true)<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanitmann&" alt="kanitmann" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanitmann) <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width = "400" height = "270">
 
 
