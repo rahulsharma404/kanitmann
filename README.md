@@ -2,6 +2,7 @@
 <h3 align="center">An enthusiast coding to make the world better</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanitmann" alt="kanitmann" /> </p>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width = "420" height = "280">
 
 - 🔭 I’m currently working on [Portfolio Website](https://kanitmann.github.io/Google_Page_Profile/)
 
@@ -29,18 +30,22 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   <img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" alt="photoshop" width="40" height="40"/> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" width="60" height="30"/></p>
+<br/>
 
-  
-
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=kanitmann&show_icons=true&hide_border=true)<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanitmann&" alt="kanitmann" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanitmann) <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width = "400" height = "270">
-
-
-  
-  
-
+------------------------------------------------
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kanitmann)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanitmann) 
+<br/>
+![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=kanitmann&show_icons=true&hide_border=true)
+<br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanitmann&" alt="kanitmann" />
+<br/>
+
+
+
+  
+  
 ⭐️ From [kanitmann](https://github.com/kanitmann)
 
 <p align="center">
