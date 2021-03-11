@@ -31,15 +31,15 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" width="60" height="30"/></p>
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width = "500" height = "330">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanitmann)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanitmann)\
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=kanitmann&show_icons=true&hide_border=true)
 
-<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanitmann&" alt="kanitmann" /></center>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanitmann&" alt="kanitmann" />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kanitmann)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kanitmann)  </p>
 
 ⭐️ From [kanitmann](https://github.com/kanitmann)
 
