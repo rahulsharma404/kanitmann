@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Portfolio Website](https://kanitmann.github.io/Google_Page_Profile/)
 
-- 🌱 I’m currently learning **JS, Java**
+- 🌱 I’m currently learning **Blockchain, Tensorflow JS**
 
 - 👯 I’m looking to collaborate on **Anything that is cool and creative**
 
