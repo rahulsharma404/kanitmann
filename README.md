@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanitmann" alt="kanitmann" /> </p>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width = "420" height = "280">
 
-- 🔭 I’m currently working on [Portfolio Website](https://kanitmann.github.io/Google_Page_Profile/)
+- 🔭 I’m currently working on [Eth_Zombiefactory](https://github.com/kanitmann/Eth_ZombieGen/)
 
-- 🌱 I’m currently learning **Blockchain, Tensorflow JS**
+- 🌱 I’m currently learning **Blockchain, Solodity**
 
 - 👯 I’m looking to collaborate on **Anything that is cool and creative**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C, C++, Python, OpenCV, Photoshop**
 
-- 📫 How to reach me **mannkanit@gmail.com**
+- 📫 Contact me anytime at **mannkanit@gmail.com**
 
 - ⚡ Fun fact **Tea is love <3**
 
