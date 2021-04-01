@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanitmann" alt="kanitmann" /> </p>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width = "420" height = "280">
 
-- 🔭 I’m currently working on [Eth_Zombiefactory](https://github.com/kanitmann/Eth_ZombieGen/)
+- 🔭 I’m currently working on Decentralized Social Media Web-App
 
-- 🌱 I’m currently learning **Blockchain, Solodity**
+- 🌱 I’m currently learning **Blockchain, Solodity, Ruby**
 
-- 👯 I’m looking to collaborate on **Anything that is cool and creative**
+- 👯 I’m looking to collaborate on **Decentalized Social Media Web-App**
 
 - 🤔 I’m looking for help with **100 days of code ideas**
 
