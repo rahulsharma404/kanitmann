@@ -34,13 +34,14 @@
 
 ------------------------------------------------
 <div align = "center" width = "50">
+  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kanitmann)
 
-![̽̀Kanit's Github stats](https://github-readme-stats.vercel.app/api?username=AP-XD&show_icons=true&count_private=true&theme=dark) 
+![̽̀Kanit's Github stats](https://github-readme-stats.vercel.app/api?username=kanitmann&show_icons=true&count_private=true&theme=dark) 
 
-![̽̀Kanit](https://github-readme-streak-stats.herokuapp.com/?user=AP-XD&theme=dark)
+![̽̀Kanit](https://github-readme-streak-stats.herokuapp.com/?user=kanitmann&theme=dark)
 
-![̽̀Kanit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=AP-XD&theme=dark)<br>
+![̽̀Kanit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=kanitmann&theme=dark)<br>
 <br/>
 </div>
 
