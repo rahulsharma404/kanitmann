@@ -42,6 +42,9 @@
 ![̽̀Kanit](https://github-readme-streak-stats.herokuapp.com/?user=kanitmann&theme=dark)
 
 ![̽̀Kanit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=kanitmann&theme=dark)<br>
+  
+### 🕙 Work Time Breakdown:
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kanitmann&layout=compact)]()
 <br/>
 </div>
 
