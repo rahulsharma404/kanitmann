@@ -44,7 +44,7 @@
 ![̽̀Kanit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=kanitmann&theme=dark)<br>
   
 ### 🕙 Work Time Breakdown:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kanitmann&layout=compact)]()
+[![kanitmann's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kanitmann&layout=compact)]()
 <br/>
 </div>
 
