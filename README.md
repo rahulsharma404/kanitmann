@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Decentralized Social Media Web-App
 
-- 🌱 I’m currently learning **Blockchain, Solodity, Ruby**
+- 🌱 I’m currently learning **Blockchain, Solidity and Ruby**
 
 - 👯 I’m looking to collaborate on **Decentalized Social Media Web-App**
 
