@@ -89,8 +89,7 @@ I believe in the saying, **"Jack of all Trades, Master of One"** <br/>
 
 ### Management: 
 <p float="left">
-<a  href="https://trello.com/en"  target="blank"><img  align="center"  src=" https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"  alt="Trello" /></a>
-<a  href="https://slack.com/"  target="blank"><img  align="center"  src=" https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/></a>
+<a  href="https://trello.com/en"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"  alt="Trello" /></a> <a  href="https://slack.com/"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"  alt="Slack" /></a>
 </p>
 
 ### Operting Systems:
