@@ -71,6 +71,8 @@ I believe in the saying, **"Jack of all Trades, Master of One"** <br/>
 
 <a  href="https://www.javascript.com/"  target="blank"><img  align="center"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  alt="JavaScript" /></a>
 
+</p>
+
 ### ML/DL:
 
 <a  href="https://www.tensorflow.org/"  target="blank"><img  align="center"  src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"  alt="Tensforflow" /></a>
@@ -129,7 +131,6 @@ I believe in the saying, **"Jack of all Trades, Master of One"** <br/>
 
 <a  href="https://ubuntu.com/"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"  alt="Ubuntu" /></a>
 
-</p>
 
   
 
