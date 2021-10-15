@@ -9,13 +9,15 @@
 
 - 🔭 I’m currently working on Decentralized Social Media Web-App
 
-- 🌱 I’m currently learning **Blockchain, Solidity and Ruby**
+- 🌱 I’m currently learning **Blockchain Development(using Solidity)**
 
 - 👯 I’m looking to collaborate on **Decentalized Social Media Web-App**
 
 - 🤔 I’m looking for help with **100 days of code ideas**
 
 - 💬 Ask me about **C, C++, Python, OpenCV, Photoshop**
+
+- 📚 Currently I am reading **John Medina Brain Rules**
 
 - 📫 Contact me anytime at **mannkanit@gmail.com**
 
